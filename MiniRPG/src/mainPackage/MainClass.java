@@ -9,5 +9,6 @@ public class MainClass {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(420,420);
         frame.setVisible(true);
+        System.out.println("hi");
     }
 }
