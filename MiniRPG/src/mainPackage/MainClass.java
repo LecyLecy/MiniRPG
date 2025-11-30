@@ -10,6 +10,6 @@ public class MainClass {
         frame.setSize(420,420);
         frame.setVisible(true);
         System.out.println("hi");
-        System.out.println("Adin Berhasil");
+        System.out.println("Jason Berhasil");
     }
 }
